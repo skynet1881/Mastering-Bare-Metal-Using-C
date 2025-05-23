@@ -1,17 +1,12 @@
-# Mastering-Bare-Metal-Using-C
+## Mastering-Bare-Metal-Using-C
 
-Zybo-Lesson-Projects
-Source Vitis
-
+# Source Vitis
 source /opt/Xilinx/Vitis/2021.1/settings64.sh
-Check Vitis version
-
+# Check Vitis version
 which vitis
-Create workspace with Vitis
-
+# Create workspace with Vitis
 ./scripts/setup_workspace.sh xsa-file project-name
-Install gtkterm
-
+# Install gtkterm
 $ sudo apt install gtkterm
-Launch gtkterm
+# Launch gtkterm
 $ sudo gtkterm
