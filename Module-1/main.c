@@ -5,4 +5,3 @@ int main() {
     printf("This is our first project");
     return 0;
 }
-
